@@ -10,7 +10,7 @@
 
 typedef enum{
     O = 0,
-    I = 1
+    I
 } Cell;
 
 char cell_image[2] = {
